@@ -1,4 +1,4 @@
-# fixit
+# fixit 2.0
 
 Paste an error, get a diagnosis and a fix. fixit analyzes error messages (or a captured error page) with AI, explains what went wrong, and shows the corrected code side by side with the original — with a chat panel for follow-up questions.
 
